@@ -4,7 +4,11 @@ Project Overview
 
 then pass your gemini api key
 
-![Career Goal Input Page]()
+![Career Goal Input Page]("https://github.com/user-attachments/assets/44edaba5-d7b6-4b8c-a014-96a6407952ae")
+
+![home]("https://github.com/user-attachments/assets/ea2d5c16-1c19-4500-afff-267090706d5d")
+
+sorry i wasnt able to deploy cause i have end sem papers
 This is an intern-level project built to demonstrate backend API design + a lightweight frontend flow.
 It provides:
 
