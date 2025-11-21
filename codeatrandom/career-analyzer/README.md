@@ -3,7 +3,7 @@ node server.js
 Project Overview
 
 then pass your gemini api key
-![Video](https://drive.google.com/file/d/18X9-oOgxG_Eq1-j5r7yDJ1FVmbXirCLv/view?usp=sharing)
+[Drive Video Link](https://drive.google.com/file/d/18X9-oOgxG_Eq1-j5r7yDJ1FVmbXirCLv/view?usp=sharing)
 ![Career Goal Input Page](https://github.com/user-attachments/assets/44edaba5-d7b6-4b8c-a014-96a6407952ae)
 
 ![home](https://github.com/user-attachments/assets/ea2d5c16-1c19-4500-afff-267090706d5d)
