@@ -2,6 +2,9 @@ npm run dev
 node server.js
 Project Overview
 
+then pass your gemini api key
+
+![Career Goal Input Page]()
 This is an intern-level project built to demonstrate backend API design + a lightweight frontend flow.
 It provides:
 
