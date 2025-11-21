@@ -1,3 +1,5 @@
+npm run dev
+node server.js
 Project Overview
 
 This is an intern-level project built to demonstrate backend API design + a lightweight frontend flow.
